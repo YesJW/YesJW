@@ -1,6 +1,6 @@
-### Hi there I'm Jangwoo 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-
+### Hi there. I'm Jangwoo, Korean developer 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YesJW&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesJW)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **YesJW/YesJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
